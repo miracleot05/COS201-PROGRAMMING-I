@@ -1,8 +1,8 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- Name: Sule Rayhan Olasunkanmi
-- Matriculation Number: [25/17416]
+- Name: Nduka Miracle Joseph
+- Matriculation Number: 25/16180
 - Programme: Computer Science
 - Course: COS 201
 
